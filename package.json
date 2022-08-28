@@ -2,10 +2,10 @@
   "name": "webportfoliobe",
   "version": "1.0.0",
   "description": "portfolio BE",
-  "main": "server.js",
+  "main": "src/server.js",
   "scripts": {
     "start": "src/server.js",
-    "dev": "nodemon src/index.js",
+    "dev": "nodemon src/server.js",
     "lint": "eslint . --fix"
   },
   "author": "Miguel Esquivel",
